@@ -9,9 +9,11 @@ This is the official repository of a project Resume Ranking using NLP submitted 
 1. Open Anaconda Prompt.
 
 2. Clone the project using following command.
+
 <code>git clone https://github.com/madblocksgit/resume-ranking.git</code>
 
 3. Run Jupyter Notebook using following command.
+
 <code>jupyter notebook</code>
 
 4. Run all the cells, make sure you have some resumes in Resumes Folder.
